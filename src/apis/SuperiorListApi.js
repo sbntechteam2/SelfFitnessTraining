@@ -70,28 +70,28 @@ const superiorlist = [
     comdTeleID: "1270881591"
 },
 {
-    name: "MAJ Ragumaran",
+    name: "LTC Ragumaran",
     unit: "SBN",
     cluster: "HQ",
     subunit: "CO Office",
     comdTeleID: "1046836247"
 },
 {
-    name: "MAJ Ragumaran",
+    name: "LTC Ragumaran",
     unit: "SBN",
     cluster: "ARC",
     subunit: "CO Office",
     comdTeleID: "1046836247"
 },
 {
-    name: "MAJ Ragumaran",
+    name: "LTC Ragumaran",
     unit: "SBN",
     cluster: "ARTY",
     subunit: "CO Office",
     comdTeleID: "1046836247"
 },
 {
-    name: "MAJ Ragumaran",
+    name: "LTC Ragumaran",
     unit: "SBN",
     cluster: "ENG",
     subunit: "CO Office",
