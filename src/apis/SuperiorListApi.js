@@ -168,7 +168,7 @@ const superiorlist = [
     comdTeleID: "1308395456"
 },
 {
-    name: "SSG Jason Foo",
+    name: "MSG Jason Foo",
     unit: "SBN",
     cluster: "ARC",
     subunit: "MEC Seletar",
@@ -266,7 +266,7 @@ const superiorlist = [
     comdTeleID: "465699987"
 },
 {
-    name: "CPT Jackie Tan",
+    name: "MAJ Jackie Tan",
     unit: "SBN",
     cluster: "ARTY",
     subunit: "Supply Section (Khatib)",
