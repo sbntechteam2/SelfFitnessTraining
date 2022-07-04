@@ -42,7 +42,7 @@ const superiorlist = [
     comdTeleID: "293563802"
 },
 {
-    name: "SSG Khairuzzaman",
+    name: "MSG Khairuzzaman",
     unit: "SBN",
     cluster: "HQ",
     subunit: "S3",
